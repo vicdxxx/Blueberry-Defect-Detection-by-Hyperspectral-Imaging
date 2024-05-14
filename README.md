@@ -1,5 +1,5 @@
 # Blueberry-Defect-Detection-by-Hyperspectral-Imaging
-Code for the paper Fusing spectral and spatial features of hyperspectral reflectance imagery to differentiate between normal and defective blueberries
+Code for the paper "Fusing spectral and spatial features of hyperspectral reflectance imagery to differentiate between normal and defective blueberries"
 
 ## Citation
 Please consider cite our work if you find this repo is helpful.
